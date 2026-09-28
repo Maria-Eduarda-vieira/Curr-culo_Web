@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Web</title>
+    <style>
+        th {
+            background-color: #D9C3B0;/* fundo escuro*/
+            color: white
+        }
+    </style>
+</head>
+<!--  cabeçalho e cores do texto e página -->
+<body style="background-color: #f0f0f0; "> 
+    <h1 style="color: #3B2713; ">Maria Eduarda Vieira - Desenvolvedora Web </h1>
+
+    <!-- Navegação Interna -->
+
+    <nav>
+        <ul>
+    <li><a style="color: #C48747;" href="#sobre">Sobre Mim</a></li>
+
+    <li><a style="color: #C48747;" href="#projetos">Meus Projetos</a></li>
+    
+    <li><a style="color: #C48747;" href="#contato">Meu contato</a></li>
+    </ul>
+</nav>
+
+    <hr>
+
+   <h2 id="sobre" style="color:#654321;">Sobre mim</h2>
+    
+   <!-- inserindo minha foto -->
+
+   <!-- height muda a vertical e o width a largura da imagem -->
+    <img src="assets/minha_foto.jpeg" alt="minha foto" width="150" height="180">
+
+    <p>Sou estudante do curso técnico de <strong style="color:#3B2713;">Desenvolvimento de Sistemas</strong> no SENAI A.Jacob Lafer. <br> Estou construindo minha base de programação, sempre disposta a me desafiar a produzir trabalhos gradativamente profissionais e crescer meu currículo para o mercado de trabalho.</p>
+
+    <p><em><h3  style="color:#3B2713;">Meus conhecimentos: </h3></em></p>
+        <ul>
+
+        <li><em style="color:#3B2713;">Banco de Dados</em> (através da interface visual MySQL WorkBench)</li> 
+        <li><em style="color:#3B2713;">Linguagem de Marcação</em>, possuindo conhecimento em HTML5, tipografia, teoria das cores e criação de protótipos por meio da  plataforma figma.</li>
+        <li><em style="color:#3B2713;">Projetos de Sofware e Levantamento de Requisitos</em>, tendo contato direto com a metodologia SCRUM e os requisitos (product backlog) de um projeto.</li>
+        <li><em style="color:#3B2713;">Programação Backend</em>, desenvolvendo códigos em PHP e realizando testes de requisição e resposta de Status Codes com Apis.</li>
+        <li><em style="color:#3B2713;">Arduino IDE</em>,possuindo alguns conceitos de eletrônica e da  plataforma TinkerCad, no qual realizei o projeto de Semáforo Inteligente</li>
+        </ul>
+
+        <hr>
+<h2 id="projetos" style="color:#654321;">Meus Projetos</h2>
+
+ 
+    <table border="1" cellpadding="10" cellspacing="0">
+
+    <thead>
+        <tr>
+            <th style="color:#3B2713;">Projeto</th>
+            <th style="color:#3B2713;">Tecnologias Utilizadas</th>
+            <th style="color:#3B2713;">Status</th>
+            <th style="color:#3B2713;">Link</th>
+        </tr>
+    </thead>
+<!-- Corpo da tabela -->
+    <tbody>
+    <tr>
+        <td style="color:#3B2713;">Semáforo Inteligente</td>
+        <td style="color:#3B2713;">C++, Arduino IDE, TinkerCad, Sensor Ultrassônico de presença</td>
+        <td style="color:#3B2713;">Concluido</td>
+        <td style="color:#3B2713;"> <a href="https://github.com/Maria-Eduarda-vieira/Semaforo_inteligente.git" target="_blank">Ver projeto</a></td>
+    </tr>
+    <tr>
+        <td>Formulário Web</td>
+        <td>PHP, VS Code e HTML5</td>
+        <td>Concluido</td>
+        <td> <a href="https://github.com/Maria-Eduarda-vieira/Atividade_PHP02.git " target="_blank">Ver projeto</a></td>
+    </tr>
+
+    <tr>
+        <td style="color:#3B2713;">Página Web Game Zone</td>
+        <td style="color:#3B2713;">HTML5, VS Code</td>
+        <td style="color:#3B2713;">Concluido</td>
+        <td style="color:#3B2713;"><a href="https://github.com/Maria-Eduarda-vieira/Atividade_Game_Zone.git" target="_blank">Ver projeto</a></td>
+    </tr>
+    </tbody>
+
+    </table>
+
+    <hr>
+
+    <h2 id="contato" style="color:#654321";>Entre em Contato</h2>
+
+
+    <form>
+        <fieldset>
+         <legend style="color:#3B2713";> Dados do Contato</legend>
+         <label for="nome"  style="color:#3B2713;">Nome:</label> <br>
+         <input type="text" id="nome" name="nome" required><br> <br> 
+
+         <label for="email" style="color:#3B2713;">Email:</label> <br>
+         <input type="email" id="email" name="email" required><br> <br> 
+
+         
+         <label for="assunto"  style="color:#3B2713;">Assunto:</label><br>
+             <select id="assunto" name="assunto">
+                <option value=""  style="color:#3B2713;">Oportunidade de Trabalho</option>
+                <option value="pa"  style="color:#3B2713;">Projetos Atuais</option>
+                <option value="tc" style="color:#3B2713;">Troca de Conhecimentos</option>
+                <option value="ic"  style="color:#3B2713;">Indicações de Conteúdo</option>
+             </select><br><br>
+
+             <label for="mensagem"  style="color:#3B2713;">Mensagem:</label> <br>  
+             <!-- cols é a largura e rows a altura -->
+             <textarea id="mensagem" name="mensagem" rows="8" cols="30">
+              </textarea><br><br>
+
+              <button type="submit"  style="color:#3B2713;">Enviar</button> 
+              <button type="reset"  style="color:#3B2713;">Limpar</button>
+
+        </fieldset>
+
+        <footer>
+            <p>&copy;  2026 Meta.Desenvolvido durante o curso do SENAI.</p>
+            <address> 
+                Contato: <a href="malito:mahvieira2010@gmail.com"> mahvieira2010@gmail.com    </a>   |  <a href="malito: (11) 963408122"> (11) 963408122</a>
+            </address>
+
+    
+        </footer>
+    </form>
+</body>
+</html>
