@@ -16,13 +16,14 @@ Nesta atividade de Linguagem de Marcação, desenvolvi meu primeiro **Currículo
 O projeto conta com navegação interna (`#sobre`, `#projetos`, `#contato`), apresentação das minhas qualificações no curso técnico, tabela  organizando alguns dos meus projetos desenvolvidos até o momento e um formulário completo para contato.
 
 ---
-### 👩‍💻 Informações do Projeto
+### 👩‍💻 Informações da Atividade
 
 - **Autora:** Maria Eduarda Vieira
 - **Turma:** 1ID-DS
 - **Data:** 28/09/2026
 - **Instituição:** SENAI A. Jacob Lafer
 
+--------
 
 ### 🛠️ Ferramentas Utilizadas
 
