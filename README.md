@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Meu+Portf%C3%B3lio+Web" alt="Typing SVG" />
-</p>
+ align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Meu+Portf%C3%B3lio+Web" alt="Typing SVG" /
 
 <p align="center">
   <b>SENAI A. Jacob Lafer</b> • Curso Técnico em Desenvolvimento de Sistemas<br>
