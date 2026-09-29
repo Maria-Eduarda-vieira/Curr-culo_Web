@@ -39,8 +39,8 @@ O projeto conta com navegação interna (`#sobre`, `#projetos`, `#contato`), apr
 | Seção | Recursos e Conteúdo | Tags Utilizadas |
 | :--- | :--- | :--- |
 | **Sobre Mim** | Apresentação pessoal, foto de perfil e lista de competências técnicas | `<img>`, `<ul>`, `<li>`, `<strong>`, `<em>` |
-| **Meus Projetos** | Tabela organizando projetos (Semáforo Inteligente, Formulário PHP e Game Zone) | `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<td>`, `<a>` |
-| **Contato** | Formulário funcional para envio de mensagens com diferentes tópicos | `<form>`, `<fieldset>`,  `<label>`,`<input>`, `<select>`, `<textarea>` |
+| **Meus Projetos** | Tabela organizando projetos (Semáforo Inteligente, Formulário PHP e Game Zone)e link do git hub| `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<td>`, `<a>` |
+| **Contato** | Formulário para envio de mensagens com diferentes tópicos | `<form>`, `<fieldset>`,  `<label>`,`<input>`, `<select>`, `<textarea>` |
 
 ---
 
@@ -54,7 +54,7 @@ O projeto conta com navegação interna (`#sobre`, `#projetos`, `#contato`), apr
 
 ---
 
-### 💡 Como me ajudou:
+###  Como me ajudou:
 >Compreendi a importância de uma boa estrutura semântica em HTML, pratiquei o uso de tipografia e teoria das cores aprendidos em aula,e entendi como organizar informações de maneira estruturada na web, integrando navegação, tabelas e formulários em uma única página.
 
 ---
