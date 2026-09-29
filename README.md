@@ -1,11 +1,11 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Meu+Portf%C3%B3lio+Web" alt="Typing SVG" />
-</p>
 
-<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=435&lines=Meu+Portf%C3%B3lio+Web" alt="Typing SVG" />
+
+
+
   <b>SENAI A. Jacob Lafer</b> • Curso Técnico em Desenvolvimento de Sistemas<br>
   <b>Disciplina:</b> Linguagem de Marcação
-</p>
+
 
 ---
 
