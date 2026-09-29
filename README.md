@@ -22,7 +22,7 @@ O projeto conta com navegação interna (`#sobre`, `#projetos`, `#contato`), apr
 - **Turma:** 1ID-DS
 - **Data:** 28/09/2026
 - **Instituição:** SENAI A. Jacob Lafer
-- 
+
 
 ### 🛠️ Ferramentas Utilizadas
 
@@ -34,7 +34,7 @@ O projeto conta com navegação interna (`#sobre`, `#projetos`, `#contato`), apr
 
 ---
 
-### 🎯 Conteúdo do Portfólio
+###  Conteúdo do Portfólio
 
 | Seção | Recursos e Conteúdo | Tags Utilizadas |
 | :--- | :--- | :--- |
